@@ -5,4 +5,4 @@ Bitcoin Core is an open source software project focused on developing for the cu
 
 Through applying swarm methodologies in communications it's entirely possible to build an open source communication operation, empowering the community to contribute in the same way it has contributed in developing code for Bitcoin.  
 
-This repository aims to collect graphic materials, best practices, and communications templates.
+This repository aims to collect graphics, best practices, templates and any materials or content appropriate to Core's communication efforts.
