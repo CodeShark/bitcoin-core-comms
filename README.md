@@ -1,5 +1,5 @@
 # bitcoin-core-comms
-Communications for Bitcoin Core
+**Communications for Bitcoin Core**
 
 Bitcoin Core is an open source software project focused on developing for the current version of the Bitcoin protocol. The communications, outreach, and education resources of Core will exist in the same way: an open system where everyone collaborates transparently and can directly contribute without barrier to entry.
 
